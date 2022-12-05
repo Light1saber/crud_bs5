@@ -30,7 +30,8 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-6">
-                <h1>CRUD Booststrap</h1>
+                <h1> ทดสอบ git/github</h1>
+                <h1>CRUD</h1>
             </div>
             <div class="col-md-6 d-flex justify-content-end">
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#userModal">Add User</button>
